@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+    text-transform: capitalize;
+}
+body{
+
+    background: url('https://letsenhance.io/static/8f5e523ee6b2479e26ecc91b9c25261e/1015f/MainAfter.jpg');
+}
+
+
+.container {
+  min-width: 100%;
+  min-height: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  top: 40;
+  top: 264px;
+}
+#loginpage{
+    background-color: black;
+    min-height: 240px;
+    min-width: 240px;
+    border-radius: 42px;
+
+ 
+      
+
+}
+.username{
+    display: block;
+}
+
+input{
+    margin-left: 21px;
+}
